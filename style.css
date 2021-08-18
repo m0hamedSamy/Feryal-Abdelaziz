@@ -182,7 +182,7 @@ body{
 }
 
 .first-p {
-   
+    font-family: 'Tajawal';
     text-align: center;
     font-size: 1.2rem;
     width: 75%;
@@ -193,7 +193,7 @@ body{
 }
 
 .second-p {
-   
+    font-family: 'Tajawal';
     text-align: center;
     font-size: 0.85rem;
     width: 75%;
